@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchit Gade</h1>
-<h3 align="center">Dedicated to advancing in web development and cloud computing to create innovative and scalable web applications that deliver exceptional user experiences and utilize the power of cloud technologies to drive efficiency and cost-effectiveness.</h3>
+<h3 align="center">Passionate in web developement and cloud computing enthusiast, seeking opportunities to leverage expertise in creating innovative web solutions and optimizing cloud infrastructure.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit1224" alt="sanchit1224" /></a> </p>
 
