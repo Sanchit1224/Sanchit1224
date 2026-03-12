@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanchit Gade</h1>
-<h3 align="center">Passionate in web developement and cloud computing enthusiast, seeking opportunities to leverage expertise in creating innovative web solutions and optimizing cloud infrastructure.</h3>
+<h3 align="center">I have sharpened my skills in Java, Spring Boot, Microservices, ReactJS, PostgreSQL, AI, Cloud and MongoDB. I enjoy working with Microservices, APIs, problem-solving. I am eager to take on challenging projects, continuously learn new technologies, and contribute to impactful software solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit1224" alt="sanchit1224" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java,cloud Computing**
+- 💬 Ask me about **Java, React, SpringBoot, Microservices, cloud**
 
 - 📫 How to reach me **sanchitgade8@gmail.com**
 
