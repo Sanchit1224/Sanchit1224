@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchit Gade</h1>
-
+<p align="center">
+  <img src="https://github.com/sanchit1224.png" alt="Sanchit Gade" width="180" style="border-radius:50%;" />
+</p>
 Backend Engineer | Java | Spring Boot | Microservices
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sanchit073.vercel.app/)
