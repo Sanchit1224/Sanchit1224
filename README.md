@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sanchit Gade</h1>
-<h3 align="center">I have sharpened my skills in Java, Spring Boot, Microservices, ReactJS, PostgreSQL, AI, Cloud and MongoDB. I enjoy working with Microservices, APIs, problem-solving. I am eager to take on challenging projects, continuously learn new technologies, and contribute to impactful software solutions.</h3>
+<h3 align="center">I have sharpened my skills in Java, Spring Boot, Microservices, kafka, Redis cloud, Docker, CI/CD, ReactJS, AngularJS PostgreSQL, AI, Cloud and MongoDB. I enjoy working with Microservices, APIs, problem-solving. I am eager to take on challenging projects, continuously learn new technologies, and contribute to impactful software solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit1224" alt="sanchit1224" /></a> </p>
 
-- 💬 Ask me about **Java, React, AngularJS, SpringBoot, Microservices, kafka, Redis cloud, Docker, CI/CD**
+- 💬 Ask me about **Java, React, Angular, SpringBoot, Microservices, kafka, Redis cloud, Docker, CI/CD**
 
 - 📫 How to reach me **sanchitgade8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://portfolio-sanchit073.vercel.app/" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
+ </a>
+  
 <a href="https://www.linkedin.com/in/sanchit-gade-45540a206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchit-gade-45540a206/" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sanchitgade8/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sanchitgade8/practice" height="30" width="40" /></a>
 </p>
 
