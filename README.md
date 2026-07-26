@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanchit Gade</h1>
+
+Backend Engineer | Java | Spring Boot | Microservices
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sanchit073.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sanchit-gade-45540a206/](https://www.linkedin.com/in/sanchit-gade-45540a206/))
 <h3 align="center">I have sharpened my skills in Java, Spring Boot, Microservices, kafka, Redis cloud, Docker, CI/CD, ReactJS, AngularJS PostgreSQL, AI, Cloud and MongoDB. I enjoy working with Microservices, APIs, problem-solving. I am eager to take on challenging projects, continuously learn new technologies, and contribute to impactful software solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit1224" alt="sanchit1224" /></a> </p>
@@ -8,11 +13,7 @@
 - 📫 How to reach me **sanchitgade8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://portfolio-sanchit073.vercel.app/" target="_blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
- </a>
-  
+<p align="left"> 
 <a href="https://www.linkedin.com/in/sanchit-gade-45540a206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchit-gade-45540a206/" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sanchitgade8/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sanchitgade8/practice" height="30" width="40" /></a>
