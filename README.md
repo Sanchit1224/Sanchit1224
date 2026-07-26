@@ -6,7 +6,7 @@ Backend Engineer | Java | Spring Boot | Microservices
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanchit-gade-45540a206/)
 <h3 align="center">I have sharpened my skills in Java, Spring Boot, Microservices, kafka, Redis cloud, Docker, CI/CD, ReactJS, AngularJS PostgreSQL, AI, Cloud and MongoDB. I enjoy working with Microservices, APIs, problem-solving. I am eager to take on challenging projects, continuously learn new technologies, and contribute to impactful software solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit1224" alt="sanchit1224" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanchit1224" alt="sanchit1224" /></a> </p>
 
 - 💬 Ask me about **Java, React, Angular, SpringBoot, Microservices, kafka, Redis cloud, Docker, CI/CD**
 
