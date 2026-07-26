@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit1224" alt="sanchit1224" /></a> </p>
 
-- 💬 Ask me about **Java, React, SpringBoot, Microservices, cloud**
+- 💬 Ask me about **Java, React, AngularJS, SpringBoot, Microservices, kafka, Redis cloud, Docker, CI/CD**
 
 - 📫 How to reach me **sanchitgade8@gmail.com**
 
